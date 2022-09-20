@@ -27,14 +27,14 @@
 }
 .logo{
   width: 228px;
-  height: 32px; 
+  height: 32px;
   z-index: 1;
 }
 .logo__place_header{
   position: absolute;
   top: 30px;
   left: 64px;
-  
+
 }
 .header__title{
   margin-left: 64px;
@@ -53,13 +53,12 @@
   z-index: 1;
 }
 .header__square-pic{
-  position:absolute ;
+  position:absolute;
   top:64px;
   right: 0;
   width: 568px;
   height: 568px;
   background-color: #2f80ed;
-  
   }
 .header__subtitle{
   position: absolute;
@@ -71,7 +70,7 @@
 }
 .header__link{
   color: #2f80ed;
-  text-decoration: none ;
+  text-decoration: none;
 }
 
 .description{
@@ -178,11 +177,10 @@
   text-decoration: none;
 }
 .kaufman{
-  padding:90px 0;  
+  padding:90px 0;
   overflow: hidden;
   background-color:#1f1f1f;
   position: relative;
-  
 }
 .section-title_dark_theme{
   color: #f2f2f2;
@@ -229,7 +227,7 @@
 .footer__column_content_copyright{
   flex-basis: 711px;
   position: relative;
-  
+
 }
 .logo__footer_place{
   background-image: url(/images/logo_place_footer.svg)
